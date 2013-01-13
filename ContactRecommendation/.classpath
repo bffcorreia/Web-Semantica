@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="/Users/brunocorreia/Documents/LEI/5º Ano/1º Semestre/WS/Prática/ContactRecommendation/lib/androjena_0.5_sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/brunocorreia/Documents/LEI/5º Ano/1º Semestre/WS/Prática/ContactRecommendation/lib/androjena_0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/brunocorreia/Documents/LEI/5º Ano/1º Semestre/WS/Prática/ContactRecommendation/lib/arqoid_0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/brunocorreia/Documents/LEI/5º Ano/1º Semestre/WS/Prática/ContactRecommendation/lib/icu4j-3.4.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/brunocorreia/Documents/LEI/5º Ano/1º Semestre/WS/Prática/ContactRecommendation/lib/iri-0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/brunocorreia/Documents/LEI/5º Ano/1º Semestre/WS/Prática/ContactRecommendation/lib/lucenoid_3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/brunocorreia/Documents/LEI/5º Ano/1º Semestre/WS/Prática/ContactRecommendation/lib/slf4j-android-1.6.1-RC1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/brunocorreia/Documents/LEI/5º Ano/1º Semestre/WS/Prática/ContactRecommendation/lib/tdboid_0.4_sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/brunocorreia/Documents/LEI/5º Ano/1º Semestre/WS/Prática/ContactRecommendation/lib/tdboid_0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/brunocorreia/Documents/LEI/5º Ano/1º Semestre/WS/Prática/ContactRecommendation/lib/mail.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

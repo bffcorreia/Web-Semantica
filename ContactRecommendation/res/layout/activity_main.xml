@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#ffffffff" >
+    <LinearLayout
+        android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:background="#ffffffff" >
+	    <EditText android:id="@+id/EditText01"
+			android:layout_height="wrap_content"
+			android:layout_width="250dp"
+			android:hint="@string/search_hint">
+		</EditText>
+		<Button
+            android:id="@+id/btn_find"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/find"
+            android:textStyle="bold"
+            android:typeface="serif" />
+	</LinearLayout>
+    <ListView
+		android:id="@+id/contact_list"
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent"
+		android:fastScrollEnabled="true"
+		android:cacheColorHint="#00000000" >
+	</ListView>
+</LinearLayout>
